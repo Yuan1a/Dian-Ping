@@ -1,5 +1,0 @@
-# Created at 2025-07-04T02:14:23.523
-Boot Manifest-JAR contains absolute paths in classpath 'E:\JavaProject\yu-ai-agent-master\yu-image-search-mcp-server\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
