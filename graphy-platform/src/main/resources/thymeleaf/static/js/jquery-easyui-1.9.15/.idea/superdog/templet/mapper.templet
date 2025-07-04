@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.4//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<!-- @{中文描述} -->
-<!-- 创建人：@{创建人} -->
-<!-- 创建时间：@{创建时间} -->
-<!-- 联系方式：@{联系方式} -->
-<mapper namespace="@{dao类}">
-
-</mapper>
